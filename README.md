@@ -35,7 +35,7 @@ Job title and industry breakdown
 
 Salary distribution and satisfaction scores
 
-Favorite tools and languages (e.g., Python, SQL)
+Favorite tools ( Excel, power bI)
 
 Filters by gender, education, country, and more
 
