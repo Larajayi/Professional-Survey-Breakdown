@@ -1,7 +1,7 @@
 📊 Data Professionals Survey – Power BI Dashboard
 This Power BI dashboard visualizes insights from a survey of 630 data professionals across various roles, industries, and backgrounds. It highlights key trends in job satisfaction, salary, work-life balance, and career paths in data.
 
-👉 Click here to download the Professional Survey Dashboard (.pbix)
+👉 https://github.com/Larajayi/Professional-Survey-Breakdown/blob/main/Professional%20Survey%20Dashboard.pbix
 
 
 🔎 About the Data
