@@ -51,7 +51,8 @@ Comparative scores for management, growth, and learning opportunities
 📌 Conclusion
 This dashboard offers a snapshot of what it’s like to work in data today  from career paths and pay to how happy people are in their roles. It’s useful for job seekers, hiring managers, and anyone curious about the data profession.
 
-![Screenshot Data Professional Survey](https://github.com/user-attachments/assets/cd2232cd-0ca4-4404-880e-32e100f0e080)
+![Screenshot Data Professional Survey](https://github.com/user-attachments/assets/508c3b63-b887-48b6-907f-a10bd2d52b39)
+
 
 
 
